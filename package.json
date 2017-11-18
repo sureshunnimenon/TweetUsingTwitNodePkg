@@ -1,0 +1,19 @@
+{
+  "name": "twit_bot",
+  "version": "1.0.0",
+  "description": "A demo tweet bot using twit and node",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "exbeyond",
+    "tweet",
+    "bot"
+  ],
+  "author": "suresh menon",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.9"
+  }
+}
